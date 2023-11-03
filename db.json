@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "name": "Abishek P",
+      "brand": "acer",
+      "category": "Phones",
+      "price": "scav",
+      "description": "casdvav",
+      "createdAt": "2023-10-24",
+      "id": 1
+    },
+    {
+      "name": "yvlyihv",
+      "brand": "hivluv",
+      "category": "Phones",
+      "price": "hivpuyv",
+      "description": "yvvpyuvpt8",
+      "createdAt": "2023-10-24",
+      "id": 2
+    },
+    {
+      "name": "Acer nitro",
+      "brand": "acer",
+      "category": "Computers",
+      "price": "9999999",
+      "description": "Gaming laptop",
+      "createdAt": "2023-10-24",
+      "id": 3
+    }
+  ]
+}
